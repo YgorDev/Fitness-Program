@@ -3,3 +3,10 @@ def calcular_metabolismo(altura, peso, idade, genero):
         return (10 * peso) + (6.25 * altura) - (5 * idade) + 5
     elif genero == 'M':
         return (10 * peso) + (6.25 * altura) - (5 * idade) - 161
+    
+
+def calcular_get(taxa_metabolica, atividade, nivel):
+    if nivel not in atividade:
+        return None
+    else:
+        return taxa_metabolica * atividade[nivel]
