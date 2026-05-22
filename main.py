@@ -74,5 +74,5 @@ while True:
 
 ajuste_objetivo = calcular_objetivo(get, objetivo, ajuste)
 print('')
-print(f'Para seu objetivo seu consumo calorido deve ser de {ajuste_objetivo:.2f}')
+print(f'Para seu objetivo, seu consumo calorido deve ser de {ajuste_objetivo:.2f}')
 print('')
