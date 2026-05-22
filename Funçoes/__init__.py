@@ -10,3 +10,10 @@ def calcular_get(taxa_metabolica, atividade, nivel):
         return None
     else:
         return taxa_metabolica * atividade[nivel]
+
+
+def calcular_objetivo(get, objetivo , ajuste):
+    if ajuste not in objetivo:
+        return None
+    else:
+        return get + objetivo[ajuste]
