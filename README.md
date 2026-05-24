@@ -4,6 +4,25 @@ Um programa fitness em desenvolvimento, que vai calcular TBM, GET, Meta e Macros
 US
 A fitness program in development, which will calculate TBM, GET, Meta and Macros nutrients, this is just a basic idea, I still intend to implement other things, such as a database to store and be able to see the progress later, basic workout recommendation for gym beginners
 
+O que aprendi com este projeto:
+
+Entrada de dados com input()
+Tratamento de erros com try/except
+Uso de funções
+Condicionais
+Loops while
+Organização de arquivos Python
+Git
+Documentação
+
+Melhorias futuras:
+
+Criar interface gráfica
+Salvar histórico dos cálculos
+Adicionar cálculo de IMC
+Melhorar validações
+Criar testes automatizados
+
 Especificaçoes Tecnicas PT-BR:
 
 # Calculadora Fitness
