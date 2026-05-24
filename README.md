@@ -3,3 +3,57 @@ Um programa fitness em desenvolvimento, que vai calcular TBM, GET, Meta e Macros
 
 US
 A fitness program in development, which will calculate TBM, GET, Meta and Macros nutrients, this is just a basic idea, I still intend to implement other things, such as a database to store and be able to see the progress later, basic workout recommendation for gym beginners
+
+Especificaçoes Tecnicas PT-BR:
+
+# Calculadora Fitness
+
+Projeto em Python que calcula o metabolismo basal e ajuda a estimar calorias diárias de acordo com o objetivo do usuário.
+
+## Funcionalidades
+
+- Recebe altura, peso, idade e gênero
+- Calcula o metabolismo basal
+- Permite escolher objetivo:
+  - Perder peso
+  - Ganhar massa
+  - Manutenção
+- Mostra uma estimativa de calorias diárias
+
+## Tecnologias usadas
+
+- Python
+
+## Como executar
+
+1. Clone o repositório:
+
+```bash
+(git clone LINK_DO_SEU_REPOSITORIO)
+
+Technical Specifications PT-BR :
+
+# Fitness Calculator
+
+Python project that calculates the Basal Metabolic Rate and helps estimate daily calorie intake based on the user's goal.
+
+## Features
+
+- Receives height, weight, age, and gender
+- Calculates Basal Metabolic Rate (BMR)
+- Allows the user to choose a goal:
+  - Lose weight
+  - Gain muscle mass
+  - Maintenance
+- Displays an estimated daily calorie intake
+
+## Technologies Used
+
+- Python
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_LINK
