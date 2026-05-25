@@ -50,7 +50,7 @@ Projeto em Python que calcula o metabolismo basal e ajuda a estimar calorias di�
 ```bash
 (git clone LINK_DO_SEU_REPOSITORIO)
 
-Technical Specifications PT-BR :
+Technical Specifications US:
 
 # Fitness Calculator
 
@@ -76,3 +76,24 @@ Python project that calculates the Basal Metabolic Rate and helps estimate daily
 
 ```bash
 git clone YOUR_REPOSITORY_LINK
+
+## Exemplo de uso:
+Digite sua altura em centimetro: 170
+Digite seu peso em Kg: 70
+Digite sua idade: 25
+Digite seu Genero H(homem) M(mulher): H
+
+Qual seu objetivo atual:
+1 = Perder Peso
+2 = Ganhar Massa
+3 = Manutenção
+: 1
+
+Sua meta diária é: 2000 calorias
+
+## Estrutuda do projeto:
+calculadora-Fitness/
+│── index.html
+├── main.py
+├── Funcoes.py
+└── README.md
