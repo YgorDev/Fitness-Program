@@ -45,10 +45,10 @@ Sua meta diária é: 2000 calorias
 
 ## Estrutuda do projeto:
 calculadora-Fitness/
-│── index.html
-├── main.py
-├── Funcoes.py
-└── README.md
+- index.html
+- main.py
+- Funcoes.py
+- README.md
 
 ## Funcionalidades
 
