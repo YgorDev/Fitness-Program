@@ -85,3 +85,7 @@ Python project that calculates the Basal Metabolic Rate and helps estimate daily
 ## Technologies Used
 
 - Python
+
+## Projeto Piloto
+
+- <img width="1024" height="1536" alt="Image 26 de mai  de 2026, 18_57_50" src="https://github.com/user-attachments/assets/97ecefe3-0752-4f4e-8ee7-06b6fba13bb2" />
