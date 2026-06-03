@@ -56,6 +56,7 @@ objetivo = {
     2:500,
     3:0
 }
+
 while True:
     try:
         ajuste = int(input('''Qual seu objetivo atual:
@@ -76,3 +77,19 @@ ajuste_objetivo = calcular_objetivo(get, objetivo, ajuste)
 print('')
 print(f'Para seu objetivo, seu consumo calorido deve ser de {ajuste_objetivo:.2f}')
 print('')
+
+proteina = peso * 2
+gordura = peso * 1
+
+proteina_cal = proteina * 4
+gordura_cal = gordura * 9
+
+carboidrato_cal = get - (proteina_cal + gordura_cal)
+carboidrato = carboidrato_cal / 4
+
+print(f'''Macros diarios:
+
+Proteina:   {proteina:.0f}g
+Gordura:    {gordura:.0f}g
+Carboidrato:{carboidrato:.0f}g
+''')
